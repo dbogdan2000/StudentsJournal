@@ -1,0 +1,9 @@
+C:\University\Projects\StudentsJournal\StudentsJournal.Domain\bin\Debug\netcoreapp2.2\StudentsJournal.Domain.deps.json
+C:\University\Projects\StudentsJournal\StudentsJournal.Domain\bin\Debug\netcoreapp2.2\StudentsJournal.Domain.dll
+C:\University\Projects\StudentsJournal\StudentsJournal.Domain\bin\Debug\netcoreapp2.2\StudentsJournal.Domain.pdb
+C:\University\Projects\StudentsJournal\StudentsJournal.Domain\obj\Debug\netcoreapp2.2\StudentsJournal.Domain.csprojAssemblyReference.cache
+C:\University\Projects\StudentsJournal\StudentsJournal.Domain\obj\Debug\netcoreapp2.2\StudentsJournal.Domain.csproj.CoreCompileInputs.cache
+C:\University\Projects\StudentsJournal\StudentsJournal.Domain\obj\Debug\netcoreapp2.2\StudentsJournal.Domain.AssemblyInfoInputs.cache
+C:\University\Projects\StudentsJournal\StudentsJournal.Domain\obj\Debug\netcoreapp2.2\StudentsJournal.Domain.AssemblyInfo.cs
+C:\University\Projects\StudentsJournal\StudentsJournal.Domain\obj\Debug\netcoreapp2.2\StudentsJournal.Domain.dll
+C:\University\Projects\StudentsJournal\StudentsJournal.Domain\obj\Debug\netcoreapp2.2\StudentsJournal.Domain.pdb

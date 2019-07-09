@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "StudentsJournal.Client/1.0.0": {
+        "dependencies": {
+          "StudentsJournal.Data.Memory": "1.0.0",
+          "StudentsJournal.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StudentsJournal.Client.dll": {}
+        }
+      },
+      "StudentsJournal.Data.Memory/1.0.0": {
+        "dependencies": {
+          "StudentsJournal.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StudentsJournal.Data.Memory.dll": {}
+        }
+      },
+      "StudentsJournal.Domain/1.0.0": {
+        "runtime": {
+          "StudentsJournal.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentsJournal.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentsJournal.Data.Memory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentsJournal.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

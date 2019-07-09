@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\University\\Projects\\StudentsJournal\\StudentsJournal.Data.Memory\\StudentsJournal.Data.Memory.csproj",
+    "projectName": "StudentsJournal.Data.Memory",
+    "projectPath": "C:\\University\\Projects\\StudentsJournal\\StudentsJournal.Data.Memory\\StudentsJournal.Data.Memory.csproj",
+    "outputPath": "C:\\University\\Projects\\StudentsJournal\\StudentsJournal.Data.Memory\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\University\\Projects\\StudentsJournal\\StudentsJournal.Domain\\StudentsJournal.Domain.csproj": {
+            "projectPath": "C:\\University\\Projects\\StudentsJournal\\StudentsJournal.Domain\\StudentsJournal.Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

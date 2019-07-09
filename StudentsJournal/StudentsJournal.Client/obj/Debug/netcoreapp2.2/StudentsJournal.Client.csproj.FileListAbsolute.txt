@@ -1,0 +1,16 @@
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\bin\Debug\netcoreapp2.2\StudentsJournal.Client.deps.json
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\bin\Debug\netcoreapp2.2\StudentsJournal.Client.runtimeconfig.json
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\bin\Debug\netcoreapp2.2\StudentsJournal.Client.runtimeconfig.dev.json
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\bin\Debug\netcoreapp2.2\StudentsJournal.Client.dll
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\bin\Debug\netcoreapp2.2\StudentsJournal.Client.pdb
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\bin\Debug\netcoreapp2.2\StudentsJournal.Data.Memory.dll
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\bin\Debug\netcoreapp2.2\StudentsJournal.Domain.dll
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\bin\Debug\netcoreapp2.2\StudentsJournal.Data.Memory.pdb
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\bin\Debug\netcoreapp2.2\StudentsJournal.Domain.pdb
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\obj\Debug\netcoreapp2.2\StudentsJournal.Client.csprojAssemblyReference.cache
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\obj\Debug\netcoreapp2.2\StudentsJournal.Client.csproj.CoreCompileInputs.cache
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\obj\Debug\netcoreapp2.2\StudentsJournal.Client.AssemblyInfoInputs.cache
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\obj\Debug\netcoreapp2.2\StudentsJournal.Client.AssemblyInfo.cs
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\obj\Debug\netcoreapp2.2\StudentsJournal.Client.csproj.CopyComplete
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\obj\Debug\netcoreapp2.2\StudentsJournal.Client.dll
+C:\University\Projects\StudentsJournal\StudentsJournal.Client\obj\Debug\netcoreapp2.2\StudentsJournal.Client.pdb

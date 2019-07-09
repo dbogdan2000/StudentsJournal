@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsJournal.Client", "StudentsJournal.Client\StudentsJournal.Client.csproj", "{892C318E-0BC0-42D9-916F-60DAB4474B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsJournal.Domain", "StudentsJournal.Domain\StudentsJournal.Domain.csproj", "{DFCBDE1E-478D-400F-9AE8-910C223D121F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsJournal.Data.Memory", "StudentsJournal.Data.Memory\StudentsJournal.Data.Memory.csproj", "{40D596E1-51E7-4C81-85CB-BC45B07AB0A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892C318E-0BC0-42D9-916F-60DAB4474B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892C318E-0BC0-42D9-916F-60DAB4474B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892C318E-0BC0-42D9-916F-60DAB4474B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892C318E-0BC0-42D9-916F-60DAB4474B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCBDE1E-478D-400F-9AE8-910C223D121F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCBDE1E-478D-400F-9AE8-910C223D121F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCBDE1E-478D-400F-9AE8-910C223D121F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCBDE1E-478D-400F-9AE8-910C223D121F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D596E1-51E7-4C81-85CB-BC45B07AB0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D596E1-51E7-4C81-85CB-BC45B07AB0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D596E1-51E7-4C81-85CB-BC45B07AB0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D596E1-51E7-4C81-85CB-BC45B07AB0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
